@@ -9,3 +9,6 @@ FRONTEND Mobile Application for Showcase
 • Difficulties Encountered: Used Firebase(Nosql Database) without having any previous experience with Databases so had to rely on intuitive understanding rather than any soild experience.
 
 • Softwares/Frameworks Used: DART(Programming Language),Flutter Framework, Android Studio,Visual Studio Code, Firebase(NoSQL Database and Tools by Google)
+
+
+![Screenshot](screenshot.png)
